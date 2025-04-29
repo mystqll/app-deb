@@ -8,7 +8,7 @@ my first repository
  - Kim Tae-ri as Na Hee-do (나희도)
    - Kim So-hyun as adult Na Hee-do
    - Ok Ye-rin as young Na Hee-do: A fencing prodigy, who has yet to reach her fullest potential. She idolizes Ko Yu-rim and transfers to her high school specifically to train with her. 
- - Nam Joo-hyuk as Baek Yi-jin (백이진):A hardworking young man whose chaebol family went bankrupt during the IMF crisis. As such, he moves out on his own in an attempt to rebuild his life despite debt collectors knocking on his door all the time.
+ - Nam Joo-hyuk as Baek Yi-jin (백이진): A hardworking young man whose chaebol family went bankrupt during the IMF crisis. As such, he moves out on his own in an attempt to rebuild his life despite debt collectors knocking on his door all the time.
  - Bona as Ko Yu-rim/Julia Ko (고유림)
    - Kyung Da-eun as young Ko Yu-rim: A high school fencing gold medalist who, at the start of the series, Hee-do idolizes, and who later becomes her rival. Despite their rivalry, she and Hee-do must work together.
  - Choi Hyun-wook as Moon Ji-woong (문지웅): Na Hee-do's classmate and the most popular boy in school.
@@ -71,6 +71,8 @@ my first repository
  - "With"
  - "Free" (가보자)
  - "Your World" (너의 세상)
+
+[Twenty-Five Twenty-One](https://mydramalist.com/695149-twenty-five-twenty-one)
 
 
    
