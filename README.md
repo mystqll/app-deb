@@ -3,7 +3,7 @@ my first repository
 # Twenty-Five Twenty-One
 ## **Twenty-Five Twenty-One** (Korean: 스물다섯 스물하나) is a 2022 South Korean television series directed by Jung Ji-hyun and starring Kim Tae-ri, Nam Joo-hyuk, Kim Ji-yeon, Choi Hyun-wook and Lee Joo-myung. The series depicts the romantic lives of five characters spanning from 1998 to 2021.
 ## Twenty-Five Twenty-One was a commercial hit and became one of the highest-rated dramas in Korean cable television history.
-![part1](https://www.gluwee.com/wp-content/uploads/2022/02/TFTO-P2.jpg)
+[part1](https://www.gluwee.com/wp-content/uploads/2022/02/TFTO-P2.jpg)
 ## Main Cast
  - Kim Tae-ri as Na Hee-do (나희도)
    - Kim So-hyun as adult Na Hee-do
@@ -71,6 +71,8 @@ my first repository
  - 	"With"
  - 	"Free" (가보자)
  - 		"Your World" (너의 세상)
+
+
    
    
    
